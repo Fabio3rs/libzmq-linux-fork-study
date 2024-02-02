@@ -1,0 +1,8 @@
+[requires]
+fmt/10.2.1
+boost/1.84.0
+cppzmq/4.10.0
+
+[generators]
+cmake
+
